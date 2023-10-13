@@ -21,6 +21,9 @@
     <module>InterfaceSegre_v2</module>
     <module>DI_v1</module>
     <module>DI_v2</module>
+    <module>cjz_factory_v1</module>
+    <module>cjz_factory_v2</module>
+    <module>cjz_factory_v3</module>
   </modules>
 
   <properties>
