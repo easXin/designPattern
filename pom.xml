@@ -24,6 +24,9 @@
     <module>cjz_factory_v1</module>
     <module>cjz_factory_v2</module>
     <module>cjz_factory_v3</module>
+    <module>cjz_abstractFactory_v1</module>
+    <module>cjz_abstractFactory_v2</module>
+    <module>cjz_abstractFactory_v3</module>
   </modules>
 
   <properties>
