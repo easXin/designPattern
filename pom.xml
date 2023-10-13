@@ -9,7 +9,8 @@
 
   <name>DesignPattern</name>
   <modules>
-    <module>SimpleResponsibility_v1</module>
+    <module>SingleResponsibility_v1</module>
+    <module>SingleResponsibility_v2</module>
   </modules>
 
   <properties>
