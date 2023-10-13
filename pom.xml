@@ -11,6 +11,7 @@
   <modules>
     <module>SingleResponsibility_v1</module>
     <module>SingleResponsibility_v2</module>
+    <module>OpenClose_v1</module>
   </modules>
 
   <properties>
