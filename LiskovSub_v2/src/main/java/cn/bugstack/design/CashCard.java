@@ -9,6 +9,7 @@ import java.util.List;
 
 /**
  * 继承的子类  必须 保证 super class 拥有的特性 依然 在 子类 中 成立
+ *   对开辟原则 进行加强
  */
 public class CashCard extends BankCard {
 
