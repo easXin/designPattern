@@ -12,6 +12,8 @@
     <module>SingleResponsibility_v1</module>
     <module>SingleResponsibility_v2</module>
     <module>OpenClose_v1</module>
+    <module>LiskovSub_v1</module>
+    <module>LiskovSub_v2</module>
   </modules>
 
   <properties>

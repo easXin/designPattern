@@ -7,6 +7,7 @@ import org.junit.Test;
 
 public class ApiTest {
 
+
     @Test
     public void test_CalculationAreaExt(){
         ICalculationArea area = new CalculationAreaExt();
