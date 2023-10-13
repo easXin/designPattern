@@ -17,6 +17,8 @@
     <module>Demeter_v1</module>
     <module>Demeter_v2</module>
     <module>Demeter_v2</module>
+    <module>InterfaceSegre_v1</module>
+    <module>InterfaceSegre_v2</module>
   </modules>
 
   <properties>
