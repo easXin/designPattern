@@ -29,6 +29,9 @@
     <module>cjz_abstractFactory_v3</module>
     <module>cjz_builder_v1</module>
     <module>cjz_builder_v2</module>
+    <module>cjz_atomic_v1</module>
+    <module>cjz_atomic_v2</module>
+    <module>cjz_atomic_v3</module>
   </modules>
 
   <properties>
